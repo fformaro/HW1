@@ -54,18 +54,18 @@ span
 	margin-bottom: 10px;
 }
 
-h2
+#ind-h2
 {
-	font-size: 25px;
+	margin-left: 2px;
+	font-size: 18px;
 	text-decoration: underline;
-	margin-left: 20px;
 	
 }
 
 h3
 {
 	margin-left: 350px;
-	font-size: 25px;
+	font-size: 30px;
 	text-decoration: underline;
 	
 }
@@ -93,7 +93,7 @@ h1
 	margin-left: 350px;
 }
 
-h2
+.res-h2
 {
 	margin-left: 350px;
 }
